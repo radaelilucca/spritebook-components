@@ -1,0 +1,8 @@
+/src/vite-env.d.ts
+node_modules/
+dist/
+.prettierrc.cjs
+env.d.ts
+*.cjs
+tsconfig.json
+babel.config.js
